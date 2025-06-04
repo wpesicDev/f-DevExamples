@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ntXEEMy0FtY=",
+  "success": true,
+  "projectFilePath": "U:\\F#\\f-DevExamples2\\f-DevExamples\\RegexExamples\\RegexExamples.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\M0645840\\.nuget\\packages\\fsharp.core\\8.0.403\\fsharp.core.8.0.403.nupkg.sha512"
+  ],
+  "logs": []
+}

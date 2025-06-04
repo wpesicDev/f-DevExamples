@@ -1,4 +1,7 @@
-﻿let empty = []
+﻿
+open System.Text.RegularExpressions
+
+let empty = []
 let l1 = [1; 2; 3]
 let l2  = [10 .. 20]
 let l3 = [2 .. 2 .. 10]
@@ -147,5 +150,4 @@ filterRange l200 10.0 100.0
 
 //norm werteberiech mit gesamtzahlen
 let normWertebereich l200 -5 
-
 
