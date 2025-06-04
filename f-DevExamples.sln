@@ -14,6 +14,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TestStudentRecords", "TestS
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RegexExamples", "RegexExamples\RegexExamples.fsproj", "{B86D0FEA-B312-4746-8564-EFDC3EC463A6}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Probelauf", "Probelauf\Probelauf.fsproj", "{332169F6-176B-451A-AA97-12114A46FC28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{B86D0FEA-B312-4746-8564-EFDC3EC463A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B86D0FEA-B312-4746-8564-EFDC3EC463A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B86D0FEA-B312-4746-8564-EFDC3EC463A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{332169F6-176B-451A-AA97-12114A46FC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{332169F6-176B-451A-AA97-12114A46FC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{332169F6-176B-451A-AA97-12114A46FC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{332169F6-176B-451A-AA97-12114A46FC28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

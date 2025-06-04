@@ -27,7 +27,6 @@ let CountMembersWithPersonalTraining members =
 printfn $"Function b {MembersWithPersonalTraining members}"
 printfn $"Function print b {CountMembersWithPersonalTraining members}"
 
-
 let groupAboType members =  
     members  
     |> List.groupBy (fun m -> m.MembershipType)  
