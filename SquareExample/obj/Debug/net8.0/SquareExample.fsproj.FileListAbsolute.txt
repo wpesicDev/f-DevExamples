@@ -1,0 +1,14 @@
+U:\F#\f-DevExamples\SquareExample\bin\Debug\net8.0\SquareExample.deps.json
+U:\F#\f-DevExamples\SquareExample\bin\Debug\net8.0\SquareExample.dll
+U:\F#\f-DevExamples\SquareExample\bin\Debug\net8.0\SquareExample.pdb
+U:\F#\f-DevExamples\SquareExample\bin\Debug\net8.0\SquareExample.xml
+U:\F#\f-DevExamples\SquareExample\obj\Debug\net8.0\SquareExample.fsproj.AssemblyReference.cache
+U:\F#\f-DevExamples\SquareExample\obj\Debug\net8.0\SquareExample.AssemblyInfoInputs.cache
+U:\F#\f-DevExamples\SquareExample\obj\Debug\net8.0\SquareExample.AssemblyInfo.fs
+U:\F#\f-DevExamples\SquareExample\obj\Debug\net8.0\SquareExample.fsproj.CoreCompileInputs.cache
+U:\F#\f-DevExamples\SquareExample\obj\Debug\net8.0\SquareExample.sourcelink.json
+U:\F#\f-DevExamples\SquareExample\obj\Debug\net8.0\SquareExample.dll
+U:\F#\f-DevExamples\SquareExample\obj\Debug\net8.0\refint\SquareExample.dll
+U:\F#\f-DevExamples\SquareExample\obj\Debug\net8.0\SquareExample.xml
+U:\F#\f-DevExamples\SquareExample\obj\Debug\net8.0\SquareExample.pdb
+U:\F#\f-DevExamples\SquareExample\obj\Debug\net8.0\ref\SquareExample.dll
